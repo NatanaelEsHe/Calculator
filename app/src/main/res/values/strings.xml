@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="b_bin">Binario</string>
+    <string name="b_hexa">Hexadecimal</string>
+    <string name="b_decimal">Decimal</string>
+</resources>
